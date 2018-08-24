@@ -1,0 +1,6 @@
+C:\Users\scull\source\repos\LatteStand\LatteStand.Domain\bin\Debug\LatteStand.Domain.dll
+C:\Users\scull\source\repos\LatteStand\LatteStand.Domain\bin\Debug\LatteStand.Domain.pdb
+C:\Users\scull\source\repos\LatteStand\LatteStand.Domain\obj\Debug\LatteStand.Domain.csprojResolveAssemblyReference.cache
+C:\Users\scull\source\repos\LatteStand\LatteStand.Domain\obj\Debug\LatteStand.Domain.csproj.CoreCompileInputs.cache
+C:\Users\scull\source\repos\LatteStand\LatteStand.Domain\obj\Debug\LatteStand.Domain.dll
+C:\Users\scull\source\repos\LatteStand\LatteStand.Domain\obj\Debug\LatteStand.Domain.pdb

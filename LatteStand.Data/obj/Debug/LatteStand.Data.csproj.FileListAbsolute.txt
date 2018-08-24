@@ -1,0 +1,13 @@
+C:\Users\scull\source\repos\LatteStand\LatteStand.Data\bin\Debug\LatteStand.Data.dll.config
+C:\Users\scull\source\repos\LatteStand\LatteStand.Data\bin\Debug\LatteStand.Data.dll
+C:\Users\scull\source\repos\LatteStand\LatteStand.Data\bin\Debug\LatteStand.Data.pdb
+C:\Users\scull\source\repos\LatteStand\LatteStand.Data\bin\Debug\EntityFramework.dll
+C:\Users\scull\source\repos\LatteStand\LatteStand.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\scull\source\repos\LatteStand\LatteStand.Data\bin\Debug\LatteStand.Domain.dll
+C:\Users\scull\source\repos\LatteStand\LatteStand.Data\bin\Debug\LatteStand.Domain.pdb
+C:\Users\scull\source\repos\LatteStand\LatteStand.Data\bin\Debug\EntityFramework.xml
+C:\Users\scull\source\repos\LatteStand\LatteStand.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\scull\source\repos\LatteStand\LatteStand.Data\obj\Debug\LatteStand.Data.csprojResolveAssemblyReference.cache
+C:\Users\scull\source\repos\LatteStand\LatteStand.Data\obj\Debug\LatteStand.Data.csproj.CoreCompileInputs.cache
+C:\Users\scull\source\repos\LatteStand\LatteStand.Data\obj\Debug\LatteStand.Data.dll
+C:\Users\scull\source\repos\LatteStand\LatteStand.Data\obj\Debug\LatteStand.Data.pdb
